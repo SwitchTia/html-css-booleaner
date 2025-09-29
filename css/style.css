@@ -18,3 +18,14 @@
 .ul-styling {
     padding-left: 10px;
 }
+
+.table-head-bg {
+    background-color: rgb(65, 154, 244);
+    font-size: small;
+    color: white;
+    text-align: left;
+}
+
+.table-row-bgcolor{
+    background-color: rgb(127, 217, 255);
+}
