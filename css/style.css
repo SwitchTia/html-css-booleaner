@@ -33,3 +33,30 @@
 .table-column-size {
     width: 25%;
 }
+
+.footer-color{
+    color: gray;
+}
+
+.rectangle1-style{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.rectangle2-style{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    
+}
+
+.footer-img-title{
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    padding: 7%;
+}
