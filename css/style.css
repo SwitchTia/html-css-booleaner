@@ -29,3 +29,7 @@
 .table-row-bgcolor{
     background-color: rgb(127, 217, 255);
 }
+
+.table-column-size {
+    width: 25%;
+}
