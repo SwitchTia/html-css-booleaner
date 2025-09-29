@@ -6,6 +6,15 @@
     width: 300px;
     height: 200px;
 }
+
+.fig-caption-styling{
+    font-size: small;
+}
+
 .yellow{
     background-color: yellow;
+}
+
+.ul-styling {
+    padding-left: 10px;
 }
