@@ -2,6 +2,18 @@
     background-color: aquamarine;
 } */
 
+header{
+    height: 80px;
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size: 250px;
+}
+
+.header-img{
+    height: 50px;
+    width: auto;
+}
+
 .img-Tim{
     width: 300px;
     height: 200px;
