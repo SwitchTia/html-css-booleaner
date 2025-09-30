@@ -38,6 +38,11 @@ header{
     text-align: left;
 }
 
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
 .table-row-bgcolor{
     background-color: rgb(127, 217, 255);
 }
@@ -70,5 +75,7 @@ header{
     color: white;
     font-size: larger;
     font-weight: bold;
-    padding: 7%;
+    text-align: center;
+   
+    
 }
